@@ -113,17 +113,6 @@ NN_Model_GA       89.27     89.51   89.27   89.25
 <h3 style="font-size:22px; font-family:Segoe UI; color:#1E88E5;">✔ Outlier detection</h3>
 <h3 style="font-size:22px; font-family:Segoe UI; color:#1E88E5;">✔ Class imbalance analysis</h3>
 
-
-<h2 style="font-size:30px; font-family:Segoe UI; font-weight:bold; color:#0D47A1;">
-👨‍💻 Project Team
-</h2>
-
-<h3 style="font-size:22px; font-family:Segoe UI; color:#1E88E5;">• Kirolos Fawzy Kamel</h3>
-<h3 style="font-size:22px; font-family:Segoe UI; color:#1E88E5;">• 3abdallah Salah Elsayd</h3>
-<h3 style="font-size:22px; font-family:Segoe UI; color:#1E88E5;">• Maxim Mamdouh Salib</h3>
-<h3 style="font-size:22px; font-family:Segoe UI; color:#1E88E5;">• Petter Nader Halem</h3>
-
-
 <h2 style="font-size:30px; font-family:Segoe UI; font-weight:bold; color:#0D47A1;">
 ✔ Conclusion
 </h2>
@@ -132,3 +121,92 @@ NN_Model_GA       89.27     89.51   89.27   89.25
 The combination of Machine Learning and Genetic Algorithm significantly improved model accuracy 
 and reduced the complexity of heart disease prediction. This makes the system more efficient and suitable for real medical applications.
 </p>
+
+<h2 style="font-size:32px; font-family:Segoe UI; font-weight:bold; color:#0D47A1; margin-bottom:20px;">
+👨‍💻 Project Team
+</h2>
+
+<div style="
+    display: flex; 
+    flex-wrap: wrap; 
+    gap: 20px; 
+    padding: 10px;
+">
+
+    <!-- Member 1 -->
+    <div style="
+        background: #ffffff; 
+        border-radius: 12px; 
+        padding: 20px; 
+        width: 280px; 
+        box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+        border-left: 6px solid #1565C0;
+    ">
+        <h3 style="font-size:22px; font-family:Segoe UI; color:#1565C0; margin-top:0;">
+            ⭐ Kirolos Fawzy Kamel
+        </h3>
+        <p style="font-size:16px; font-family:Segoe UI; color:#333;">
+            Machine Learning Engineer  
+            <br>GA Optimization & Model Evaluation
+        </p>
+    </div>
+
+    <!-- Member 2 -->
+    <div style="
+        background: #ffffff; 
+        border-radius: 12px; 
+        padding: 20px; 
+        width: 280px; 
+        box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+        border-left: 6px solid #00897B;
+    ">
+        <h3 style="font-size:22px; font-family:Segoe UI; color:#00897B; margin-top:0;">
+            ⭐ 3abdallah Salah Elsayd
+        </h3>
+        <p style="font-size:16px; font-family:Segoe UI; color:#333;">
+            Data Preprocessing &  
+            <br>Medical Feature Analysis
+        </p>
+    </div>
+
+    <!-- Member 3 -->
+    <div style="
+        background: #ffffff; 
+        border-radius: 12px; 
+        padding: 20px; 
+        width: 280px; 
+        box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+        border-left: 6px solid #6A1B9A;
+    ">
+        <h3 style="font-size:22px; font-family:Segoe UI; color:#6A1B9A; margin-top:0;">
+            ⭐ Maxim Mamdouh Salib
+        </h3>
+        <p style="font-size:16px; font-family:Segoe UI; color:#333;">
+            Visualization & Data Insights  
+            <br>Correlation & Risk Pattern Analysis
+        </p>
+    </div>
+
+    <!-- Member 4 -->
+    <div style="
+        background: #ffffff; 
+        border-radius: 12px; 
+        padding: 20px; 
+        width: 280px; 
+        box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+        border-left: 6px solid #C62828;
+    ">
+        <h3 style="font-size:22px; font-family:Segoe UI; color:#C62828; margin-top:0;">
+            ⭐ Petter Nader Halem
+        </h3>
+        <p style="font-size:16px; font-family:Segoe UI; color:#333;">
+            Model Training Pipeline  
+            <br>Accuracy Benchmarking
+        </p>
+    </div>
+
+</div>
+
+
+
+
